@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "C:\\Users\\T.I\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "json.schemas": [
+        
+    
+    ]
+}
