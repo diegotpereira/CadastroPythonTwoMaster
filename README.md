@@ -1,3 +1,3 @@
 ﻿# CadastroPythonTwoMaster
  
- Aplicação desenvolvida em python com uso de template UI com banco de dados in memory
+ Aplicação desenvolvida em python com uso de template UI com banco de dados MySql
